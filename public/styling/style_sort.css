@@ -3,7 +3,7 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    height: 375px;
+    height: 400px;
     padding: 10px;
     transform-origin: center center;
     transform: rotateX(180deg);
